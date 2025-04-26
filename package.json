@@ -1,0 +1,12 @@
+{
+    "name": "daily-task-list",
+    "version": "1.0.0",
+    "description": "A simple daily task list app using Node.js, Express, and a file-based DB",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
